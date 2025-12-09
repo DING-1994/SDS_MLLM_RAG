@@ -1,0 +1,4 @@
+.env
+input_images
+mixed_wiki
+qdrant_mm_db
